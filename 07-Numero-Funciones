@@ -1,0 +1,24 @@
+import math
+
+"""Esto devulve el numero mas cercano que nosotros le pasemos en este caso 1.3 se acerca mas a 1 que a dos"""
+#print(round(1.3))
+#print(round(1.8))
+#print(round(1.5))#este como esta en la mitad el compilador lo toma como mas cerca al 2 que el uno delvolviendo el numero 2
+ 
+#print(abs(-55)) #Esto devulve el valor absoluto es decir saca el signo de la ecuacion ya sea positivo o negativo por ende dando el numero positivo siempre
+#print(round(55))
+
+#Modulos
+"""Los modulos son otroa rchivos que nosotros podemos traer y este ya viene escrito en python y poder utilizar mas herramientas"""
+#print(math.ceil(1.1))#se utiliza para obtener el entero más cercano mayor o igual a un número.
+#print(math.sqrt(9))#devuelve la raiz cuadrada
+#print(math.pow(5, 3))#este modulo devuelve la potencia
+#isnan significa is not a number
+#print(math.isnan(50))#se utiliza para verificar si un número es no es un numero o no.
+print(math.floor(1.77777))#se utiliza para obtener el entero más cercano menor o igual a un número.
+
+
+
+
+
+
